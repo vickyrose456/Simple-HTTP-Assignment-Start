@@ -1,5 +1,5 @@
 const http = require('http');
-const htmlHandler = require('./src/htmlResponses.js');
+const htmlHandler = require('./htmlResponses.js');
 // const textHandler = require('./src/textResponses.js');
 // const jsonHandler = require('./src/jsonResponses.js');
 
